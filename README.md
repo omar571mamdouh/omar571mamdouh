@@ -10,7 +10,7 @@
 - 🧠 Skilled in building complete web applications — from **database design** to **frontend UX**  
 - 🔍 Focused on writing **clean, maintainable code** and creating **scalable systems**  
 - 🌱 Always learning & exploring new web technologies  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar571mamdouh)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar-mamdouh-747182384/)
 
 ---
 
@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar571mamdouh&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar571mamdouh&layout=compact&theme=tokyonight)
+![Omar's Portfolio stats] (https://omarlaravel.infinityfree.me/portfolio/Portfolio-page/portfolio.html?i=1)
+
 
 </div>
 
