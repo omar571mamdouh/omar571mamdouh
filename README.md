@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👨‍💻 Omar Mamdouh Kamal
+# 👨‍💻 Omar Mamdouh Kamel
 
-### 🚀 Full Stack Developer | Laravel & Angular Specialist
+###  Full Stack Developer | Laravel & Angular Specialist
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://omarlaravel.infinityfree.me/portfolio/Portfolio-page/portfolio.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mamdouh-747182384/)
