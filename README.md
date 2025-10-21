@@ -1,50 +1,54 @@
-<h1 align="center">Hi 👋, I'm Omar Mamdouh</h1>
-<h3 align="center">Front-End Developer | Passionate about Web Technologies & AI</h3>
+<!-- 💻 Omar Mamdouh GitHub Profile -->
 
-<p align="center">
-I’m a front-end developer focused on building clean, responsive, and dynamic web applications using modern technologies like Angular, TypeScript, and JavaScript.  
-I love turning ideas into interactive digital experiences, exploring AI integration in web projects, and constantly learning new tools to improve my workflow and creativity.
-</p>
+<h1 align="center">Hi there 👋, I'm <span style="color:#0078ff;">Omar Mamdouh</span></h1>
+<h3 align="center">💻 Full Stack Developer | Laravel & Angular Enthusiast</h3>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+### 🚀 About Me
+- 🧩 Passionate **Full Stack Developer** experienced with **Laravel**, **Angular**, and **SQL**  
+- 🧠 Skilled in building complete web applications — from **database design** to **frontend UX**  
+- 🔍 Focused on writing **clean, maintainable code** and creating **scalable systems**  
+- 🌱 Always learning & exploring new web technologies  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar571mamdouh)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| 💡 Technology | ⚡ Level |
+|:--------------|:--------|
+| ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ **90%** |
+| ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ **85%** |
+| ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ **80%** |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ **75%** |
+| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ **70%** |
+| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ **65%** |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **60%** |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar571mamdouh&show_icons=true&theme=dark&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar571mamdouh&layout=compact&theme=dark" height="180em" />
-</p>
+<div align="center">
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar571mamdouh&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar571mamdouh&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar571mamdouh&theme=dark" alt="GitHub streak"/>
-</p>
-
----
-
-### 🌍 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-mamdouh"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/omar571mamdouh"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:omar571mamdouh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### 🧠 Quote
+> *"Code. Learn. Improve. Repeat."* ✨
 
 ---
 
 <p align="center">
-  🚀 Always learning, building, and exploring new ideas!
+  <a href="https://github.com/omar571mamdouh">
+    <img src="https://komarev.com/ghpvc/?username=omar571mamdouh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  </a>
 </p>
